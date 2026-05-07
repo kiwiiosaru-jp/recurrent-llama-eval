@@ -2,7 +2,7 @@
 
 [arXiv:2511.07384 *Teaching Pretrained Language Models to Think Deeper with Retrofitted Recurrence*](https://arxiv.org/abs/2511.07384) で公開された **`smcleish/Recurrent-Llama-3.2-train-recurrence-16`** を、推論時のループ数 `num_steps` を 1〜7 で1刻みスイープし、GSM8K 100問で評価したコード一式です。
 
-📝 **記事**：[OpenMythos は SLM の業務利用に道を開いたのか？](https://qiita.com/...) <!-- TODO: Qiita URL を投稿後に更新 -->
+📝 **記事**：[OpenMythosはSLMの業務利用に道を開いたのか？（Qiita）](https://qiita.com/kiwiiosaru-jp/items/da46ffbd3f064f94ee99)
 
 ## 主要な発見（要約）
 
