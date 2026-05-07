@@ -1,0 +1,30 @@
+{
+  "model_id": "smcleish/Recurrent-Llama-3.2-train-recurrence-16",
+  "n_samples": 100,
+  "results": [
+    {
+      "num_steps": 1,
+      "accuracy": 0.13,
+      "n_correct": 13,
+      "elapsed_sec": 432.51557207107544
+    },
+    {
+      "num_steps": 2,
+      "accuracy": 0.4,
+      "n_correct": 40,
+      "elapsed_sec": 679.7598819732666
+    },
+    {
+      "num_steps": 3,
+      "accuracy": 0.43,
+      "n_correct": 43,
+      "elapsed_sec": 2658.4659237861633
+    },
+    {
+      "num_steps": 4,
+      "accuracy": 0.46,
+      "n_correct": 46,
+      "elapsed_sec": 1510.3533940315247
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+.pytest_cache/
+
+# OS
+.DS_Store
+
+# 個人作業ファイル
+article_draft.md
+article_preview.html
+preview.py
+QIITA_POSTING.md
+eval.log
+eval_extra.log
+
+# テスト・開発時テンポラリ
+dryrun.py
+smoke_test.py
+check_access.py
+
+# Colab 結果 zip（中身は results_colab/ で展開済み）
+colab/results_colab.zip
+
+# 大きすぎる場合は results/ も除外可（透明性のためデフォルトでは含める）
+# results/

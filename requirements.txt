@@ -1,0 +1,10 @@
+torch>=2.4
+transformers>=4.45
+accelerate>=0.34
+datasets>=3.0
+huggingface_hub>=0.25
+matplotlib>=3.9
+numpy>=2.0
+tqdm>=4.66
+sentencepiece>=0.2
+protobuf>=5.0
