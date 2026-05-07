@@ -24,7 +24,7 @@ https://colab.research.google.com/ にアクセス → 「ファイル」→「�
 
 ### 2. 本ディレクトリの `Recurrent_Llama_GSM8K_eval.ipynb` をアップロード
 
-ローカルパス: `~/Documents/ちゅらデータ/Abe/AIトレンドまとめ/poc-recurrent-llama/colab/Recurrent_Llama_GSM8K_eval.ipynb`
+リポジトリルートからのパス: `colab/Recurrent_Llama_GSM8K_eval.ipynb`
 
 ### 3. ランタイムを GPU に切替
 
@@ -42,7 +42,7 @@ https://colab.research.google.com/ にアクセス → 「ファイル」→「�
 ### 5. ダウンロードした results_colab.zip をローカルへ展開
 
 ```bash
-cd ~/Documents/ちゅらデータ/Abe/AIトレンドまとめ/poc-recurrent-llama/
+cd <repository-root>
 mkdir -p results_colab
 unzip -o ~/Downloads/results_colab.zip -d results_colab/
 ```
